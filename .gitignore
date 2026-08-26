@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.pytest_cache/
+.venv/
+venv/
+results/
+data/best_solution_*.pkl
+data/result_*.pkl
+data/warm_up_weight*.pkl
+data/weight_trained_curve.pkl
+*.pdf
+*.log
+*.dat

@@ -1,0 +1,32 @@
+{
+    "Satellite_Number": 6,
+    "Satellite_Longitudes_Deg": [76, 86, 96, 106, 116, 126],
+    "Minimum_Elevation_Deg": 5,
+    "Channel_Switching_Time": 0,
+    "Simulation_Period": {
+        "Simulation_End": "2024-02-25 12:00:00",
+        "Simulation_Start": "2024-02-25 00:00:00"
+    },
+    "Spectrum_Range": {
+        "Maximum_Frequency": 12020,
+        "Minimum_Frequency": 12000
+    },
+    "Task_Distribute": {
+        "Distribute_Mean_1": 5600,
+        "Distribute_Mean_2": 940,
+        "Distribute_std_1": 900,
+        "Distribute_std_2": 560
+    },
+    "Task_Location_Distribute": {
+        "Longitude_Mean_Deg": 104,
+        "Longitude_SD_Deg": 12,
+        "Longitude_Min_Deg": 73.5,
+        "Longitude_Max_Deg": 135,
+        "Latitude_Mean_Deg": 35,
+        "Latitude_SD_Deg": 8,
+        "Latitude_Min_Deg": 18,
+        "Latitude_Max_Deg": 53.5
+    },
+    "Task_Number": 1500,
+    "Unit_Bandwidth": 1
+}
